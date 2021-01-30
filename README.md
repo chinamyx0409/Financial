@@ -1,4 +1,8 @@
 # Financial
+Financial Engineering and Risk Management Part I
+https://www.coursera.org/learn/financial-engineering-1/home/welcome
+
+
 Balance Sheet, Income Sheet
 
 Understanding of balance sheet (recommended)
